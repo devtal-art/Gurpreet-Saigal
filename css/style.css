@@ -376,5 +376,12 @@ ul.info-list li:hover a {
 
     .secondary {
         margin-top: 100px;
+        padding-top: 30px !important;
+    }
+
+    .logo {
+        width: 100px;
+        height: auto;
+        display: none;
     }
 }
