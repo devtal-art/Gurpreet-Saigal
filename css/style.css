@@ -373,4 +373,8 @@ ul.info-list li:hover a {
         background: #f6f6f6;
         border-radius: 9px;
     }
+
+    .secondary {
+        margin-top: 100px;
+    }
 }
